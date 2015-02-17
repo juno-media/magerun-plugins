@@ -1,0 +1,10 @@
+{
+    "name": "juno/magerun-plugins",
+    "authors": [
+        {
+            "name": "Kalps",
+            "email": "kalpesh@junowebdesign.com"
+        }
+    ],
+    "require": {}
+}
