@@ -1,0 +1,6 @@
+autoloaders:
+  Juno: %module%/src
+
+commands:
+   customCommands:
+    - Juno\Magento\Command\Media\ReplaceImagesCommand
